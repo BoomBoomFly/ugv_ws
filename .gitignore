@@ -1,0 +1,15 @@
+/build/
+/install/
+/log/
+/src/thirdparty/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.bag
+*.db3
+*.mcap
+*.ulg
+*.pt
+*.onnx
+*.engine
+*.trt
